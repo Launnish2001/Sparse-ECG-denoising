@@ -5,4 +5,4 @@ Specifically, three different models have been compared and their results have b
 The models include:
 1) Generalized Minimax Concave penalty (GMC)
 2) Sparsity assisted signal smoothing (SASS)
-3) L1 Norm penalty(L1 NORM)
+3) L1 Norm penalty (L1 NORM)
