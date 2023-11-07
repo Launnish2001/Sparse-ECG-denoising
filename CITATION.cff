@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Sparsity assisted ECG denoising '
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Launnish
+    name-particle: M
+    email: launnish2001@gmail.com
+  - email: anushrajkini946@gmail.com
+    given-names: Anush
+    name-particle: Raj
+    family-names: Kini
+repository-code: 'https://github.com/Launnish2001/Sparse-ECG-denoising.git'
